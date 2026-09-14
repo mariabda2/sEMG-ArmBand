@@ -1,0 +1,22 @@
+# Numerical computing
+numpy==2.5.1
+
+# Data manipulation
+pandas==3.0.3
+
+# Scientific computing
+scipy
+
+# Visualization
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn
+
+# Jupyter / notebooks
+jupyter
+ipykernel
+
+# Utilities
+typing_extensions==4.16.0

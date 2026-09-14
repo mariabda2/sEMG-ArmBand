@@ -1,0 +1,8 @@
+data/metadata/*.csv
+data/processed/*.csv
+data/master/*.csv
+.venv
+notebooks/02.x_metadata_eda.ipynb
+*.png
+*.csv
+*.xlsx
