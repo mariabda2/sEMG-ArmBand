@@ -110,16 +110,6 @@ source venv/bin/activate        # Linux/macOS
 pip install -r requirements.txt
 ```
 
-### Ejecutar notebooks
-
-```bash
-jupyter lab notebooks/
-```
-
-Abre `notebooks/` en orden: `01_` → `02_` → `03_`.
-
----
-
 ## Dependencias
 
 | Paquete | Uso |
@@ -139,11 +129,5 @@ Abre `notebooks/` en orden: `01_` → `02_` → `03_`.
 - Los archivos de datos en `data/` son CSVs de gran tamaño; **no editar directamente**.
 - Los datasets maestros (`intact_signals.csv`, `amputated_signals.csv`, etc.) son generados por el notebook `01_` y **no están commiteados** en el repositorio (ver `.gitignore`).
 - El proyecto **no tiene estructura de paquete Python** — todo se ejecuta desde notebooks.
-- No hay tests, linting ni CI configurado.
 - Para DB4, solo se usan los canales 1–8 (el sensor tiene 12) para mantener consistencia entre bases de datos.
 
----
-
-## Licencia
-
-Ver archivo [LICENSE](LICENSE).
