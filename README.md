@@ -47,7 +47,7 @@ Ejecutar en el siguiente orden:
 |---|----------|-------------|
 | 1 | `01_creates_db_merge.ipynb` | Carga y une los CSV procesados de DB1–DB7 en tablas maestras de sujetos intactos y amputados. Filtra canales 1–8 y estímulos de interés. |
 | 2 | `02_creates_dataset_intact.ipynb` | Construye el dataset final de sujetos no amputados (NinaProDB1, DB2, DB4, DB5) con las 8 features × 8 canales seleccionadas. |
-| 3 | `03_intact_database_analysis.ipynb` | EDA completo: distribución de sujetos por estímulo y DB, análisis de ventanas, visualizaciones comparativas. |
+| 3 | `03_intact_database_analysis.ipynb` | Exploración del comportamiento de las ventanas vs repeticiones. |
 
 ---
 
