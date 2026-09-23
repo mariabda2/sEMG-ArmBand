@@ -22,3 +22,4 @@ ipykernel
 typing_extensions==4.16.0
 
 openpyxl
+umap-learn
