@@ -7,3 +7,4 @@ notebooks/02.x_metadata_eda.ipynb
 *.csv
 *.xlsx
 figures
+__pycache__/

@@ -1,0 +1,9 @@
+# Procedencia de resultados
+
+> Documento generado automáticamente por `notebooks/_provenance.py`.
+> Cada ejecución de un notebook actualiza su propia fila. No editar manualmente.
+
+| Notebook | Commit | Rama | Estado | Ejecutado | Archivos generados |
+|---|---|---|---|---|---|
+| `06_projection_tecniques.ipynb` | `f5d3083` | `main` | sucio (21 archivos sin commitear) | 2026-10-13T18:37:59 | `figures/proyeccion_tecniques/kpca_max_ventanas_aplanadas_origin_db.pdf`<br>`figures/proyeccion_tecniques/kpca_max_ventanas_aplanadas_stimulus.pdf`<br>`figures/proyeccion_tecniques/t_sne_max_ventanas_aplanadas_origin_db.pdf`<br>`figures/proyeccion_tecniques/t_sne_max_ventanas_aplanadas_stimulus.pdf`<br>`figures/proyeccion_tecniques/umap_max_ventanas_aplanadas_origin_db.pdf`<br>`figures/proyeccion_tecniques/umap_max_ventanas_aplanadas_stimulus.pdf` |
+| `08_clustering.ipynb` | `f5d3083` | `main` | sucio (14 archivos sin commitear) | 2026-10-13T20:49:27 | `figures/clustering/intact_bc_fused__8f/aglomerativo_2d.pdf`<br>`figures/clustering/intact_bc_fused__8f/aglomerativo_3d.pdf`<br>`figures/clustering/intact_bc_fused__8f/aglomerativo_linkages.pdf`<br>`figures/clustering/intact_bc_fused__8f/aglomerativo_tabla.pdf`<br>`figures/clustering/intact_bc_fused__8f/azar_histogramas.pdf`<br>`figures/clustering/intact_bc_fused__8f/gmm_2d.pdf`<br>`figures/clustering/intact_bc_fused__8f/gmm_3d.pdf`<br>`figures/clustering/intact_bc_fused__8f/gmm_bic_aic.pdf`<br>`figures/clustering/intact_bc_fused__8f/gmm_tabla.pdf`<br>`figures/clustering/intact_bc_fused__8f/hdbscan_2d.pdf`<br>`figures/clustering/intact_bc_fused__8f/hdbscan_3d.pdf`<br>`figures/clustering/intact_bc_fused__8f/hdbscan_tabla.pdf`<br>`figures/clustering/intact_bc_fused__8f/kmeans_2d.pdf`<br>`figures/clustering/intact_bc_fused__8f/kmeans_3d.pdf`<br>`figures/clustering/intact_bc_fused__8f/kmeans_barrido_k.pdf`<br>`figures/clustering/intact_bc_fused__8f/kmeans_tabla.pdf` |
